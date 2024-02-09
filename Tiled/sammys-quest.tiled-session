@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "beach1-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "beach.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "beach1-1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 427.33333333333326,
+                "y": 74.66666666666663
+            }
+        }
+    },
+    "last.imagePath": "/Users/sherriff/Repositories/gbstudio/sammys-quest/Assets/beach",
+    "map.height": 9,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "beach.tsx",
+        "beach1-1.tmx"
+    ],
+    "project": "sammys-quest.tiled-project",
+    "recentFiles": [
+        "beach.tsx",
+        "beach1-1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
